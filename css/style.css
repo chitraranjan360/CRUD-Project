@@ -1,0 +1,48 @@
+
+
+.col{
+   background-color: #b3b6b7; 
+}
+
+.col2{
+    background-color:#f4f6f7 ;
+}
+
+.btn{
+   background-color: #72b2c8;
+   padding: 5px;
+   padding-right: 10px;
+   padding-left: 10px;
+   text-align: center;
+   
+   font-size: 18px;
+   border-radius: 12px;
+   border: none;
+  
+}
+
+
+.btn:hover{
+    background-color: #084e7d ;
+    color: white;
+}
+nav{
+    background-color: lightblue;
+    padding-left: 6px;
+    
+}
+nav:hover{
+    background-color: #084e7d;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-weight: 500;
+}
+
+a:hover{
+    color: #084e7d ;
+    background-color: #72b2c8; 
+}
+
+
